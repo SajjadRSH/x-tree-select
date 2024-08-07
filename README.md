@@ -1,5 +1,4 @@
-# Name Of Project
-x-tree-select
+# Name Of Project: x-tree-select
 
 # Jquery Tree Select
 
