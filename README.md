@@ -1,3 +1,6 @@
+# Name Of Project
+x-tree-select
+
 # Jquery Tree Select
 
 Tree select plugin for jquery
